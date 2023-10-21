@@ -5,7 +5,7 @@ params:
     type: string
 
 modules:
-  - name: github.com/qmonus/official-cloud-native-adapters
+  - name: github.com/Newskenta/qumonus_VStest/tree/main/official-cloud-native-adapters
     revision: v0.9.2-alpha.1_branch
 
 designPatterns:
